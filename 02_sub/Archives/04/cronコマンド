@@ -1,0 +1,12 @@
+[Yamaguchi418@133-130-114-192 ~]$ which php
+/usr/bin/php
+
+[Yamaguchi418@133-130-114-192 ~]$ crontab -l
+no crontab for Yamaguchi418
+
+[Yamaguchi418@133-130-114-192 ~]$ crontab -e
+no crontab for Yamaguchi418 - using an empty one
+crontab: installing new crontab
+
+[Yamaguchi418@133-130-114-192 ~]$ crontab -l
+0 10 * * * /home/www/Yamaguchi418/02_sub/04/cron_mail.php

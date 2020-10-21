@@ -1,0 +1,3 @@
+コマンド
+Yamaguchi418@133-130-114-192 laravel]$ php artisan make:controller ItemController
+Controller created successfully.

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "user"
+AuthUserFile "/home/www/Yamaguchi418/02_sub/basic/.htpasswd"
+require valid-user
